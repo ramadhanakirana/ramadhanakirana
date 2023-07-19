@@ -1,5 +1,8 @@
 ### Hi there 👋
+I'm Kirana, a data enthusiast with a background in actuarial science and hands-on experience as a data analyst intern. I am deeply fascinated by the world of data analytics and aspire to contribute my skills and knowledge in a data analyst or data scientist role. Working with numbers and diving into new challenges are my passions, and I am always eager to embrace opportunities for continuous learning and growth in this dynamic field.
 
+# Project
+Here's my portfolio
 <!--
 **ramadhanakirana/ramadhanakirana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
