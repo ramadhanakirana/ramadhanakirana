@@ -3,6 +3,13 @@ I'm Kirana, a data enthusiast with a background in actuarial science and hands-o
 
 #### Project
 Here's my portfolio
+
+## Tools 🛠️
+• Excel and Google Spreadsheet
+• Python
+• SQL
+• Statistical Tools (Minitab, SPSS)
+• Google Data Studio and Tableau
 <!--
 **ramadhanakirana/ramadhanakirana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
